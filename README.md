@@ -1,0 +1,1 @@
+# aws-serverless-email-notification
